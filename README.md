@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anshul02092003
-- 👀 I’m interested in ...Bhopal
+- 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...anshulrai02092003@gmail.com
