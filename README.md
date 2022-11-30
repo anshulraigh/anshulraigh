@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </br>
 
@@ -49,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul02092003&theme=dark" alt="Anshul Rai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul02092003&theme=light" alt="Anshul Rai" /></p>
 
 
  [![Anshul02092003's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anshul02092003&theme=xcode)](https://git.io/Anshul02092003)
