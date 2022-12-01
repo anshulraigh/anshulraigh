@@ -7,11 +7,16 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/anshul-rai-a0a109228/"><img align="left" src="https://raw.githubusercontent.com/Anshul02092003/Anshul02092003/main/images/linkedin.svg" alt="Anshul Rai | LinkedIn" width="50px"/></a>
+<!-- <a href="https://www.linkedin.com/in/anshul-rai-a0a109228/"><img align="left" src="https://raw.githubusercontent.com/Anshul02092003/Anshul02092003/main/images/linkedin.svg" alt="Anshul Rai | LinkedIn" width="50px"/></a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/anshul_rai_02/"><img align="left" src="https://raw.githubusercontent.com/Anshul02092003/Anshul02092003/main/images/instagram.svg" alt="Anshul Rai | Instagram" width="50px"/></a>
 </br>
-</br>
+</br> -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/anshul-rai-a0a109228/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hashnode.com/@AnshulRai"><img title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="mailto:anshulrai077@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
